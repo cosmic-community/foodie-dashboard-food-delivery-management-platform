@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: 'Foodie Dashboard - Food Delivery Management',
   description: 'Manage restaurants, menus, orders, and delivery partners for your food delivery platform',
   icons: {
-    icon: '/icon.svg', // Will use a simple SVG icon instead
+    icon: '/icon.svg',
   },
 }
 
